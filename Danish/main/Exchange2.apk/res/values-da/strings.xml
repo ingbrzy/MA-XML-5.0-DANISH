@@ -23,7 +23,7 @@
   <string name="meeting_when">Hvornår: %s</string>
   <string name="meeting_where">Hvor: %s</string>
   <string name="notification_exchange_calendar_added">Exchange kalender tilføjet</string>
-  <string name="policy_app_blacklist">forbyd specificrede applikationer</string>
+  <string name="policy_app_blacklist">forbyd specificerede applikationer</string>
   <string name="policy_app_whitelist">tillad kun specificerede applikationer</string>
   <string name="policy_bluetooth_restricted">begræns bluetooth brug</string>
   <string name="policy_dont_allow_attachments">"tillad ikke vedhæftninger"</string>
@@ -31,7 +31,7 @@
   <string name="policy_dont_allow_consumer_email">"tillad ikke forbruger email"</string>
   <string name="policy_dont_allow_html">"tillad ikke HTML email"</string>
   <string name="policy_dont_allow_internet_sharing">"tillad ikke internetdeling"</string>
-  <string name="policy_dont_allow_irda">"tillad ikke infarød kommunikation"</string>
+  <string name="policy_dont_allow_irda">"tillad ikke infrarød kommunikation"</string>
   <string name="policy_dont_allow_pop_imap">"tillad ikke POP3 eller IMAP accounts"</string>
   <string name="policy_dont_allow_storage_cards">"tillad ikke lagringskort"</string>
   <string name="policy_dont_allow_text_messaging">"tillad ikke SMS/MMS"</string>
