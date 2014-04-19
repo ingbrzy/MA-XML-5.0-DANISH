@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>En side per side</item>
+        <item>To sider per side</item>
+        <item>Fire sider per side</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Stående</item>
+        <item>Liggende</item>
+        <item>Spejlvendt liggende</item>
+        <item>Spejlvendt stående</item>
+    </string-array>
+    <string-array name="sides">
+        <item>Enkeltsidet</item>
+        <item>Tosidet lang kant</item>
+        <item>Tosidet kort kant</item>
+    </string-array>
+</resources>
