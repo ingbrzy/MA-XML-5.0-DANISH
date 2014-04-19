@@ -99,9 +99,9 @@
   <string name="mibi_license_message">Du vil anvende Xiaomi Mi Credit Tjeneste. Tryk på OK betyder samtykke med %1$s.</string>
   <string name="mibi_license_message_span">Mi Credit Brugeraftale</string>
   <string name="mibi_license_title">Brugeraftale</string>
-  <string name="micloud_account">XiaoMi konto</string>
+  <string name="micloud_account">Xiaomi konto</string>
   <string name="micloud_account_label">Konto: %1$s</string>
-  <string name="micloud_account_name">XiaoMi Konto</string>
+  <string name="micloud_account_name">Xiaomi Konto</string>
   <string name="micloud_account_not_actived">Konto ikke aktiveret</string>
   <string name="micloud_active_email_sent_1">Vi har sendt et aktiverings link til din Email:</string>
   <string name="micloud_active_email_sent_2" />
@@ -222,7 +222,7 @@ Venligst indtast adgangskode"</string>
   <string name="skip_login">Skip log ind</string>
   <string name="skip_setup_account_msg">Med din Xiaomi konto, kan du synkronisere og sikkerhedskopiere SMS, kontakter, billeder, noter, etc. Forstæt og indstil senere?</string>
   <string name="skip_setup_account_title">Skip konto indstilling</string>
-  <string name="sync_dspt">Anvend XiaoMi konto til at synkronisere data</string>
+  <string name="sync_dspt">Anvend Xiaomi konto til at synkronisere data</string>
   <string name="sync_off">Fra</string>
   <string name="sync_on">Til</string>
   <string name="sync_sub_dspt">En SMS skal sendes for aktivere tjenesten</string>
@@ -234,7 +234,7 @@ Venligst indtast adgangskode"</string>
   <string name="title_prepaid">Opfyld via opfyldningskort</string>
   <string name="title_recharge">Genopfyld Mi Credits</string>
   <string name="title_recharge_record">Opfyldningshistorik</string>
-  <string name="title_reg">Registrer en XiaoMi konto</string>
+  <string name="title_reg">Registrer en Xiaomi konto</string>
   <string name="title_voucher">Genopfyld med MiCredit kupon</string>
   <string name="unactivated_user">Ikke aktiveret</string>
   <string name="unbind">Fjern tilknytning</string>

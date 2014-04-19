@@ -2,7 +2,7 @@
 <resources>
   <string name="about_app_name">Video Afspiller</string>
   <string name="about_developer_label">Udvikler</string>
-  <string name="about_developer_name">XiaoMi digit</string>
+  <string name="about_developer_name">Xiaomi digit</string>
   <string name="about_title">Om</string>
   <string name="about_version">V4.0</string>
   <string name="adjust_position_next_media_notice">Næste</string>
