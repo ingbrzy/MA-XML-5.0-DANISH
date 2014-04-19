@@ -99,7 +99,6 @@
   <string name="ext_media_safe_unmount_notification_title">USB lager sikkert at fjerne</string>
   <string name="ext_media_unmountable_notification_message">USB lager beskadiget. Det skal muligvid formateres.</string>
   <string name="ext_media_unmountable_notification_title">Beskadiget USB lager</string>
-  <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="gps_notification_found_text">Placering låst af GPS</string>
   <string name="gps_notification_searching_text">Søger efter GPS</string>
   <string name="invalid_charger">"USB opladning ikke understøttet. Anvend kun den medfølgende oplader."</string>
