@@ -14,7 +14,6 @@
   <string name="administrative_disable">Administration er deaktiveret</string>
   <string name="administrative_enable">Administration er aktiveret</string>
   <string name="advanced_settings">Valgfri indstillinger</string>
-  <string name="advanced_settings_container">Holder for avancerede indstillinger</string>
   <string name="advanced_settings_hide">▽ Tryk for at skjule alle</string>
   <string name="advanced_settings_show">▷ Tryk for at vise alle</string>
   <string name="advertisements_disable">Annoncer deaktiveret</string>
@@ -50,7 +49,6 @@
   <string name="audio_mode_earpiece">Ørestykke til håndsæt</string>
   <string name="audio_mode_speaker">Højttaler</string>
   <string name="audio_mode_wired_headset">Headset med ledning</string>
-  <string name="auth_username">AuthUserName</string>
   <string name="auth_username_summary">Brugernavn bruges til godkendelse</string>
   <string name="auth_username_title">Brugernavn til godkendelse</string>
   <string name="auto_answer_delay_entries_delay_10s_miui">10s</string>
@@ -306,10 +304,8 @@
   <string name="disable_pin_ok">PIN-koden til SIM-kortet er deaktiveret</string>
   <string name="disable_sim_pin">Deaktiver PIN-kode til SIM-kort</string>
   <string name="disable_sim_pin_miui">Deaktiver SIM PIN</string>
-  <string name="display_name">DisplayName</string>
   <string name="display_name_summary">&lt;Samme som brugernavn&gt;</string>
   <string name="display_name_title">Visningsnavn</string>
-  <string name="domain_address">SipDomain</string>
   <string name="domain_address_title">Server</string>
   <string name="doneButton">Udfør</string>
   <string name="dtmf_tone_enable_title">Tastetone</string>
@@ -632,7 +628,7 @@ Skift til den nye udbyder alligevel?"</string>
   <string name="ota_unsuccessful">"Din telefon blev ikke aktiveret. Du skal muligvis finde et område med bedre dækning (ved et vindue eller udenfor). Prøv igen, eller ring til kundeservice for at få flere oplysninger om andre muligheder."</string>
   <string name="other_settings">Andre indstillinger for opkald</string>
   <string name="other_settings_miui">Andre indstillinger</string>
-  <string name="password">Adganskode</string>
+
   <string name="password_title">Adgangskode</string>
   <string name="pause_prompt_no">Nej</string>
   <string name="pause_prompt_str">"Sender toner"</string>
@@ -662,7 +658,6 @@ Skift til den nye udbyder alligevel?"</string>
   <string name="pin_progress_set_fdn_lock_miui">Indstiller Faste Opkaldsnumre låsetilstand…</string>
   <string name="pin_progress_set_icc_lock_miui">Indstiller icc låsetilstand…</string>
   <string name="pin_progress_unlock_icc_miui">Låser SIM kort op…</string>
-  <string name="port">Port</string>
   <string name="port_title">Portnummer</string>
   <string name="pref_custom_location_summary_miui">Rediger region og områdenumre</string>
   <string name="pref_custom_location_title_miui">Rediger områdenumre</string>
@@ -693,7 +688,6 @@ Skift til den nye udbyder alligevel?"</string>
   <string name="primary_account_summary_with">Primær konto. %s</string>
   <string name="private_num">Privat nummer</string>
   <string name="progress_dialog_exiting_ecm">Eksisterende nødtilbagekaldstilstand</string>
-  <string name="proxy_address">Proxy Adresse</string>
   <string name="proxy_address_title">Udgående proxyadresse</string>
   <string name="pstn_phone">Mobiltelefonopkald</string>
   <string name="puk2_requested">Adgangskoden er forkert. SIM-kortet er låst. PUK2 er påkrævet.</string>
@@ -775,7 +769,6 @@ Venligst bemærk at SIM kortet vil være ubrugeligt, hvis forsøget mislykkes ig
   <string name="selectContact">vælg kontaktperson</string>
   <string name="select_automatically">Vælg automatisk</string>
   <string name="send_button">Send</string>
-  <string name="send_keepalive">SendKeepAlive</string>
   <string name="send_keepalive_title">Send keepalive</string>
   <string name="separate_from_conference_miui">Enkelt opkald</string>
   <string name="set_preferred_network_type_when_data_enabled_miui">Foretrukken netværkstype kun tilgængelig når data er deaktiveret</string>
@@ -806,10 +799,7 @@ Venligst bemærk at SIM kortet vil være ubrugeligt, hvis forsøget mislykkes ig
   <string name="sip_accounts">Konti til internetopkald (SIP)</string>
   <string name="sip_accounts_title">Konti</string>
   <string name="sip_add_account_tip_text">Venligst tilføj en konto for internet opkald for at anvende det</string>
-  <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-  <string name="sip_always">SIP_ALWAYS</string>
   <string name="sip_always_send_keepalive">Send altid</string>
-  <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
   <string name="sip_call_options_entry_1">Konfigurer opkaldsindstillinger</string>
   <string name="sip_call_options_entry_2">Kun til internetopkald</string>
   <string name="sip_call_options_entry_3">Spørg ved hvert opkald</string>
@@ -884,7 +874,6 @@ Venligst bemærk at SIM kortet vil være ubrugeligt, hvis forsøget mislykkes ig
   <string name="throttle_status_subtext">"%1$s (%2$d٪) af %3$s periode maksimum Næste periode starter om %4$d dage (%5$s)"</string>
   <string name="throttle_time_frame">Periode for databrug</string>
   <string name="throttle_time_frame_subtext">"%1$d٪ af cyklus forløbet. Næste periode starter om %2$d dage (%3$s)"</string>
-  <string name="transport">Protocol</string>
   <string name="transport_title">Transporttype</string>
   <string name="tty_mode_entries_full_miui">TTY Fuld</string>
   <string name="tty_mode_entries_hco_miui">TTY HCO</string>
@@ -908,7 +897,6 @@ Venligst bemærk at SIM kortet vil være ubrugeligt, hvis forsøget mislykkes ig
   <string name="updating_fdn_contact">Opdaterer fast opkaldsnummer...</string>
   <string name="updating_settings">Opdaterer indstillinger ...</string>
   <string name="updating_title">Indstillinger for opkald</string>
-  <string name="username">Brugernavn</string>
   <string name="username_title">Brugernavn</string>
   <string name="ussdRunning">USSD-kode kører ...</string>
   <string name="vibrate_on_ring_title">Vibrer ved opkald</string>
