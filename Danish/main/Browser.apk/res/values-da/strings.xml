@@ -363,7 +363,6 @@
   <string name="pref_setting_title">Side indstillinger</string>
   <string name="pref_text_zoom">Tekst skalering</string>
   <string name="pref_ua_mione_entry">MiOne</string>
-  <string name="pref_ua_mione_value">6</string>
   <string name="pref_ua_string">Brugeragent streng</string>
   <string name="pref_ua_title">Brugeragent håndtering</string>
   <string name="pref_use_instant_search">Google Instant</string>
