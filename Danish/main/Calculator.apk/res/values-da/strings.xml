@@ -34,7 +34,7 @@
   <string name="equal_on_history">=</string>
   <string name="error">Fejl</string>
   <string name="factorial">!</string>
-  <string name="factorialDesc">faktorial</string>
+  <string name="factorialDesc">fakultet</string>
   <string name="leftParen">(</string>
   <string name="leftParenDesc">venstre parantes</string>
   <string name="lg">log</string>
