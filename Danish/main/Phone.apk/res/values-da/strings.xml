@@ -251,9 +251,7 @@
   <string name="default_contacts_countrycode_hint_miui">Eksempel: 45</string>
   <string name="default_contacts_countrycode_miui">Standard landekode for kontakter</string>
   <string name="default_contacts_countrycode_sum_miui">Indstil standard landekoden for dine kontakter</string>
-  <string name="default_port">5060</string>
   <string name="default_preference_summary">&lt;Ikke angivet&gt;</string>
-  <string name="default_transport">UDP</string>
   <string name="delete_all_sim_contacts_miui">Slet alle kontakter fra SIM</string>
   <string name="delete_fdn_contact">Slet fast opkaldsnummer</string>
   <string name="delete_selected_sim_entry_miui">Slet valgte kontakter</string>
@@ -772,7 +770,6 @@ Venligst bemærk at SIM kortet vil være ubrugeligt, hvis forsøget mislykkes ig
   <string name="send_keepalive_title">Send keepalive</string>
   <string name="separate_from_conference_miui">Enkelt opkald</string>
   <string name="set_preferred_network_type_when_data_enabled_miui">Foretrukken netværkstype kun tilgængelig når data er deaktiveret</string>
-  <string name="set_primary">SetPrimary</string>
   <string name="set_primary_summary">Bruges til udgående opkald</string>
   <string name="set_primary_title">Angiv som primær konto</string>
   <string name="set_smsc_address_error_miui">Fejl ved indstilling af SMS center nummer, prøv igen senere.</string>

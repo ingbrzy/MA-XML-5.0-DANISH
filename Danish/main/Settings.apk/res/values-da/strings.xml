@@ -403,7 +403,6 @@ Er du isikker på du vil aktivere?"</string>
   <string name="brightness_auto_adjust_off">Manuel lysstyrke kan justeres efter præference ved at flytte knappen. Lysstyrken vil forblive den samme i alle omgivelser.</string>
   <string name="brightness_auto_adjust_on">Auto lysstyrke effekten kan justeres ved at flytte knappen. Lysstyrke effekten vil variere iht justeringen og omgivelserne.</string>
   <string name="brightness_summary">Juster lysstyrken på skærmen</string>
-  <string name="bssid_label">BSSID:</string>
   <string name="build_number">ROM version:</string>
   <string name="builtin_keyboard_settings_summary">Fysisk tastatur indstillinger</string>
   <string name="builtin_keyboard_settings_title">Fysisk tastatur</string>
@@ -449,7 +448,6 @@ Er du isikker på du vil aktivere?"</string>
   <string name="common_settings">Udvalgte</string>
   <string name="complete_settings">Alle</string>
   <string name="computing_size">Beregner ...</string>
-  <string name="config_list_label">Konfigurerede Netværk</string>
   <string name="config_mass_storage_function_name">USB forbindelse</string>
   <string name="config_mtp_function_name">mtp</string>
   <string name="config_ptp_function_name">ptp</string>
@@ -590,7 +588,6 @@ For at vælge hvilken information der skal synkroniseres indenfor hver konto, g�
   <string name="debug_debugging_category">Fejlsøgning</string>
   <string name="debug_drawing_category">Tegning</string>
   <string name="debug_input_category">Input</string>
-  <string name="debug_intent_sender_label">Debug hensigt afsender</string>
   <string name="debug_layout">Vis layout grænser</string>
   <string name="debug_layout_summary">Vis klip grænser, margener, etc.</string>
   <string name="debug_log">Fejlfindings log</string>
@@ -635,13 +632,11 @@ For at vælge hvilken information der skal synkroniseres indenfor hver konto, g�
   <string name="dirac_mode_earbuds">In-ear høretelefoner</string>
   <string name="dirac_mode_earphones">Høretelefoner</string>
   <string name="dirac_mode_off">Dirac Fra</string>
-  <string name="disableNetwork">disableNetwork</string>
   <string name="disable_overlays">Deaktiver HW overlæg</string>
   <string name="disable_overlays_summary">Anvend altid GPU til skærmkomposition</string>
   <string name="disable_power_key_long_press_under_keyguard">Deaktiver på låseskærm</string>
   <string name="disable_text">Deaktiver</string>
   <string name="disabled">Deaktiveret</string>
-  <string name="disconnect">Afbryd</string>
   <string name="display_font_size_label">Skriftstørrelse:</string>
   <string name="display_label">Visuelle indstillinger</string>
   <string name="display_order_text">Sorter efter:</string>
@@ -723,7 +718,6 @@ For at vælge hvilken information der skal synkroniseres indenfor hver konto, g�
   <string name="emergency_tone_summary">Indstil adfærd, når et nødopkald er placeret</string>
   <string name="emergency_tone_title">nødopkaldstone</string>
   <string name="empty_list_msg">"Du har ikke nogen tredjeparts apps installeret."</string>
-  <string name="enableNetwork">enableNetwork</string>
   <string name="enable_adb">USB fejlretning</string>
   <string name="enable_adb_summary">Fejlretnings-tilstand, når USB er tilsluttet</string>
   <string name="enable_compatibility">Skaler app</string>
@@ -796,8 +790,6 @@ For at vælge hvilken information der skal synkroniseres indenfor hver konto, g�
   <string name="gadget_toggle_bluetooth">Opdatering Bluetooth indstilling</string>
   <string name="gadget_toggle_wifi">Opdatering af Wi-Fi-indstilling</string>
   <string name="game_controller_settings_category">Spil Controller</string>
-  <string name="getConfiguredNetworks">getConfiguredNetworks</string>
-  <string name="getConnectionInfo">getConnectionInfo</string>
   <string name="haptic_feedback_enable_title">Haptisk feedback</string>
   <string name="haptic_feedback_level">Vibrationsniveau</string>
   <string name="hardkeyboard_category">Fysisk tastatur Indstillinger</string>
@@ -814,18 +806,6 @@ For at vælge hvilken information der skal synkroniseres indenfor hver konto, g�
   <string name="header_data_and_synchronization">Data &amp; synkronisering</string>
   <string name="heavy_weight_stop_description">Denne applikation kan ikke stoppes sikkert. Dette kan medføre tab af dit nuværende arbejde.</string>
   <string name="help_label">Hjælp</string>
-  <string name="help_url_accounts"/>
-  <string name="help_url_backup_reset"/>
-  <string name="help_url_battery"/>
-  <string name="help_url_bluetooth"/>
-  <string name="help_url_choose_lockscreen"/>
-  <string name="help_url_data_usage"/>
-  <string name="help_url_more_networks"/>
-  <string name="help_url_sound"/>
-  <string name="help_url_tether"/>
-  <string name="help_url_vpn"/>
-  <string name="help_url_wifi"/>
-  <string name="hidden_ssid_label">skjult SSID:</string>
   <string name="history_details_title">Historik detaljer</string>
   <string name="home_key">Hjem Knap</string>
   <string name="ime_security_warning">%1$s kan være i stand til at indsamle al den tekst, du skriver, herunder personoplysninger som kodeord og kreditkortnumre. Den kommer fra applikationen %1$s. Brug denne inputmetode?</string>
@@ -870,7 +850,6 @@ For at vælge hvilken information der skal synkroniseres indenfor hver konto, g�
   <string name="internal_storage">Internt lager</string>
   <string name="invalid_location">Den angivne placering for installation er ikke gyldig</string>
   <string name="invalid_size_value">Kan ikke beregne pakkestørrelsen</string>
-  <string name="ipaddr_label">IPadr:</string>
   <string name="join_many_items_first">%1$s, %2$s</string>
   <string name="join_many_items_last">%1$s og %2$s</string>
   <string name="join_many_items_middle">%1$s, %2$s</string>
@@ -901,7 +880,6 @@ For at vælge hvilken information der skal synkroniseres indenfor hver konto, g�
   <string name="led_settings">LED</string>
   <string name="legal_information">Juridisk information</string>
   <string name="license_title">Licens</string>
-  <string name="link_speed_label">Link Hastighed:</string>
   <string name="local_backup_password_summary_change">Vælg for at ændre eller fjerne adgangskoden for desktop fuld backup</string>
   <string name="local_backup_password_summary_none">"Desktop fuld backup er i øjeblikket ikke beskyttet."</string>
   <string name="local_backup_password_title">Desktop backup adgangskode</string>
@@ -985,7 +963,6 @@ For at vælge hvilken information der skal synkroniseres indenfor hver konto, g�
   <string name="lockpattern_tutorial_continue_label">Næste</string>
   <string name="lte_ram_dump_off">Sluk LTE RAM dump</string>
   <string name="lte_ram_dump_on">Tænd LTE RAM dump</string>
-  <string name="macaddr_label">MAC adr:</string>
   <string name="main_running_process_description">Hovedproces, der er i brug.</string>
   <string name="man_add_application">Tilføj autostart apps manuelt</string>
   <string name="manage_device_admin">Enhedsadministratorer</string>
@@ -1691,8 +1668,6 @@ Muligvis ugyldig PIN."</string>
   <string name="strict_mode">Streng tilstand aktiveret</string>
   <string name="strict_mode_summary">Flash-skærmen, når apps gør lange operationer på hovedtråden</string>
   <string name="sum_carrier_select">Vælg en netoperatør</string>
-  <string name="summary_font_size">%1$s</string>
-  <string name="supplicant_state_label">supplikant status:</string>
   <string name="sync_active">Synk aktiv</string>
   <string name="sync_automatically">Automatisk synkronisering af app data</string>
   <string name="sync_calendar">Kalender</string>
@@ -1722,7 +1697,6 @@ Muligvis ugyldig PIN."</string>
   <string name="testing_phone_info">Telefon oplysninger</string>
   <string name="testing_sim_toolkit">SIM Toolkit</string>
   <string name="testing_usage_stats">Brugsstatistik</string>
-  <string name="testing_wifi_info">Wi-Fi information</string>
   <string name="tether_settings_title_all">Internetdeling &amp; bærbart hotspot</string>
   <string name="tether_settings_title_bluetooth">Bluetooth internetdeling</string>
   <string name="tether_settings_title_usb">Internetdeling</string>
@@ -1730,7 +1704,6 @@ Muligvis ugyldig PIN."</string>
   <string name="tether_settings_title_wifi">Bærbart hotspot</string>
   <string name="tethering_help_button_text">Hjælp</string>
   <string name="time_picker_title">Tid</string>
-  <string name="time_zone_auto_stub">Vælg Tidszone</string>
   <string name="timezone_settings">Tidszone</string>
   <string name="title_dolby_control">Dolby kontrol</string>
   <string name="title_font_size">Skriftstørrelse</string>
@@ -2017,7 +1990,6 @@ Tilføj et ord ved at trykke på Tilføj (+) knappen"</string>
   <string name="wifi_advanced_mac_address_title">MAC-adresse</string>
   <string name="wifi_advanced_settings_label">IP-indstillinger</string>
   <string name="wifi_advanced_titlebar">Avanceret Wi-Fi</string>
-  <string name="wifi_api_test">Wi-Fi API</string>
   <string name="wifi_cancel">Annuller</string>
   <string name="wifi_certificate">Wi-Fi Certifikat</string>
   <string name="wifi_config_info">Wi-Fi Config</string>
@@ -2031,9 +2003,7 @@ Tilføj et ord ved at trykke på Tilføj (+) knappen"</string>
   <string name="wifi_disabled_network_failure">Undgik dårlig internetforbindelse</string>
   <string name="wifi_disabled_password_failure">Godkendelsesproblem</string>
   <string name="wifi_dns1">DNS-1</string>
-  <string name="wifi_dns1_hint">8.8.8.8</string>
   <string name="wifi_dns2">DNS 2</string>
-  <string name="wifi_dns2_hint">4.4.4.4</string>
   <string name="wifi_eap_anonymous">Anonym identitet</string>
   <string name="wifi_eap_ca_cert">CA-certifikat</string>
   <string name="wifi_eap_identity">Identitet</string>
@@ -2050,10 +2020,8 @@ Tilføj et ord ved at trykke på Tilføj (+) knappen"</string>
   <string name="wifi_failed_save_message">Kunne ikke gemme netværk</string>
   <string name="wifi_forget">Glem</string>
   <string name="wifi_gateway">Gateway</string>
-  <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_in_airplane_mode">I Flytilstand</string>
   <string name="wifi_ip_address">IP-adresse</string>
-  <string name="wifi_ip_address_hint">192.168.1.128</string>
   <string name="wifi_ip_settings">IP-indstillinger</string>
   <string name="wifi_ip_settings_invalid_dns">Skriv en gyldig DNS-adresse.</string>
   <string name="wifi_ip_settings_invalid_gateway">Skriv en gyldig gateway adresse.</string>
@@ -2072,7 +2040,6 @@ Tilføj et ord ved at trykke på Tilføj (+) knappen"</string>
   <string name="wifi_menu_wps_pin">WPS Pin indtastning</string>
   <string name="wifi_more">Mere</string>
   <string name="wifi_network_prefix_length">Netærk Præfikslængde</string>
-  <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_not_in_range">Ikke i området</string>
   <string name="wifi_notify_open_networks">Netværksmeddelelse</string>
   <string name="wifi_notify_open_networks_summary">Underret mig, når et åbent netværk er tilgængeligt</string>
@@ -2105,19 +2072,9 @@ Tilføj et ord ved at trykke på Tilføj (+) knappen"</string>
   <string name="wifi_security">Sikkerhed</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
-  <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">Ingen</string>
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
-  <string name="wifi_security_short_eap">802.1x</string>
-  <string name="wifi_security_short_wep">WEP</string>
-  <string name="wifi_security_short_wpa">WPA</string>
-  <string name="wifi_security_short_wpa2">WPA2</string>
-  <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-  <string name="wifi_security_wep">WEP</string>
-  <string name="wifi_security_wpa">WPA PSK</string>
-  <string name="wifi_security_wpa2">WPA2 PSK</string>
-  <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
   <string name="wifi_setting_frequency_band_error">Der opstod et problem indstilling frekvensbåndet.</string>
   <string name="wifi_setting_frequency_band_summary">Angiv frekvensområdet for drift</string>
   <string name="wifi_setting_frequency_band_title">Wi-Fi-frekvensbåndet</string>
@@ -2163,14 +2120,7 @@ Tilføj et ord ved at trykke på Tilføj (+) knappen"</string>
   <string name="wifi_speed">Link hastighed</string>
   <string name="wifi_ssid">Netværk SSID</string>
   <string name="wifi_starting">Aktivering ...</string>
-  <string name="wifi_state_disabled">Deaktiveret</string>
-  <string name="wifi_state_disabling">Deaktiverer</string>
-  <string name="wifi_state_enabled">Aktiveret</string>
-  <string name="wifi_state_enabling">Aktiverer</string>
-  <string name="wifi_state_label">Wi-Fi-tilstand:</string>
-  <string name="wifi_state_unknown">Ukendt</string>
   <string name="wifi_status">Status</string>
-  <string name="wifi_status_test">Wi-Fi status</string>
   <string name="wifi_stopping">Deaktivering ...</string>
   <string name="wifi_tether_checkbox_text">Bærbart Wi-Fi hotspot</string>
   <string name="wifi_tether_configure_ap_text">Konfigurer Wi-Fi hotspot</string>
@@ -2180,7 +2130,6 @@ Tilføj et ord ved at trykke på Tilføj (+) knappen"</string>
   <string name="wifi_tether_failed_subtext">Bærbart Wi-Fi-hotspot fejl</string>
   <string name="wifi_unchanged">(uændret)</string>
   <string name="wifi_unspecified">(uspecificeret)</string>
-  <string name="wifi_update">Opdater Stats</string>
   <string name="wifi_wapi_as_cert">WAPI AS Certifikat</string>
   <string name="wifi_wapi_cert_cancel_button">Annuller</string>
   <string name="wifi_wapi_cert_create_subdir">Opret bibliotek</string>
